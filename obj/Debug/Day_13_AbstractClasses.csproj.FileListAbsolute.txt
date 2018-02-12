@@ -1,0 +1,6 @@
+c:\users\dj\documents\visual studio 2015\Projects\Day_13_AbstractClasses\Day_13_AbstractClasses\bin\Debug\Day_13_AbstractClasses.exe.config
+c:\users\dj\documents\visual studio 2015\Projects\Day_13_AbstractClasses\Day_13_AbstractClasses\bin\Debug\Day_13_AbstractClasses.exe
+c:\users\dj\documents\visual studio 2015\Projects\Day_13_AbstractClasses\Day_13_AbstractClasses\bin\Debug\Day_13_AbstractClasses.pdb
+c:\users\dj\documents\visual studio 2015\Projects\Day_13_AbstractClasses\Day_13_AbstractClasses\obj\Debug\Day_13_AbstractClasses.csprojResolveAssemblyReference.cache
+c:\users\dj\documents\visual studio 2015\Projects\Day_13_AbstractClasses\Day_13_AbstractClasses\obj\Debug\Day_13_AbstractClasses.exe
+c:\users\dj\documents\visual studio 2015\Projects\Day_13_AbstractClasses\Day_13_AbstractClasses\obj\Debug\Day_13_AbstractClasses.pdb
